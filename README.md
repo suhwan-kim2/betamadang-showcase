@@ -10,11 +10,21 @@ No installation or sign-in is needed to try a public work. Google sign-in unlock
 
 ## Start with a little surprise
 
+### New: Slime Feast — One More Bite
+
+Move a tiny slime, collect candy, and combine upgrades into a ridiculous build. Tiny twins inherit your sneeze attack; pudding dashes chain lightning. Survive long enough to face the vacuum boss.
+
+[Play in English](https://betamadang.web.app/en/play/slime-feast?utm_source=github&utm_medium=readme&utm_campaign=slime_launch) · [한국어로 플레이](https://betamadang.web.app/play/slime-feast?utm_source=github&utm_medium=readme&utm_campaign=slime_launch)
+
+[![Slime Feast title screen](images/slime-feast.jpg)](https://betamadang.web.app/en/play/slime-feast?utm_source=github&utm_medium=readme&utm_campaign=slime_launch)
+
+First playable release: movement-only controls, seven upgrades, a short boss run, and shareable score text with a challenge code. Re-enter the code to repeat the initial seed; later outcomes also depend on your choices and movement. Persistent character unlocks are not included yet.
+
 | Turn your name into a galaxy | Play a tune with your fingertips | Test your memory |
 |---|---|---|
 | [![Name Galaxy preview](images/name-galaxy.jpg)](https://betamadang.web.app/en/play/name-galaxy?utm_source=github&utm_medium=readme&utm_campaign=english_launch) | [![Touch Piano preview](images/touch-piano.jpg)](https://betamadang.web.app/en/play/touch-piano?utm_source=github&utm_medium=readme&utm_campaign=english_launch) | [![Memory Pairs preview](images/memory-pairs.jpg)](https://betamadang.web.app/en/play/memory-pairs?utm_source=github&utm_medium=readme&utm_campaign=english_launch) |
 
-Explore **30 English Studio experiments**, from tiny games to everyday utilities. Find an idea worth trying—or bring your own.
+Explore **31 English Studio experiments**, from tiny games to everyday utilities. Find an idea worth trying—or bring your own.
 
 ## Pick your first experiment
 
