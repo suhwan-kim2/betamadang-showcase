@@ -8,6 +8,14 @@ A quick calculation. A tidier list. One more round of a game. **Try small HTML c
 
 No installation or sign-in is needed to try a public work. Google sign-in unlocks uploads, downloads, and comments on community works.
 
+## Start with a little surprise
+
+| Turn your name into a galaxy | Play a tune with your fingertips | Test your memory |
+|---|---|---|
+| [![Name Galaxy preview](images/name-galaxy.jpg)](https://betamadang.web.app/en/play/name-galaxy?utm_source=github&utm_medium=readme&utm_campaign=english_launch) | [![Touch Piano preview](images/touch-piano.jpg)](https://betamadang.web.app/en/play/touch-piano?utm_source=github&utm_medium=readme&utm_campaign=english_launch) | [![Memory Pairs preview](images/memory-pairs.jpg)](https://betamadang.web.app/en/play/memory-pairs?utm_source=github&utm_medium=readme&utm_campaign=english_launch) |
+
+Explore **30 English Studio experiments**, from tiny games to everyday utilities. Find an idea worth trying—or bring your own.
+
 ## Pick your first experiment
 
 | Experiment | What it does | Try it |
@@ -27,7 +35,7 @@ The [examples](examples/) folder contains these five English HTML files. Open on
 3. Let people try it and exchange feedback through comments and replies.
 4. Update your HTML and thumbnail as your idea improves.
 
-The site interface supports Korean and English. Creator-written content stays in its original language. These five examples also have English controls. Other works may use Korean. Studio examples do not accept site comments; [open an issue here](https://github.com/suhwan-kim2/betamadang-showcase/issues) to share feedback.
+The site interface supports Korean and English. Creator-written content stays in its original language. The English Studio collection includes translated controls and instructions. Studio examples do not accept site comments; [open an issue here](https://github.com/suhwan-kim2/betamadang-showcase/issues) to share feedback.
 
 ## Current beta limits
 
