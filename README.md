@@ -14,7 +14,7 @@ No installation or sign-in is needed to try a public work. Google sign-in unlock
 
 Have something that already runs but needs more hands? Post it on the team board and say who you are looking for. It is one board with role tags for **Development, Design, QA, and Planning**, so every post is in the same place and you can filter by the role you offer.
 
-[Open the team board](https://betamadang.web.app/en/team?utm_source=github&utm_medium=readme&utm_campaign=team_launch) · [팀 모집 게시판](https://betamadang.web.app/team?utm_source=github&utm_medium=readme&utm_campaign=team_launch) · [Read the posting rules](https://betamadang.web.app/en/team/posting-rules?utm_source=github&utm_medium=readme&utm_campaign=team_launch)
+[Open the team board](https://betamadang.web.app/en/team?utm_source=github&utm_medium=readme&utm_campaign=team_launch) · [팀 모집 게시판](https://betamadang.web.app/team?utm_source=github&utm_medium=readme&utm_campaign=team_launch) · [Read the posting rules](https://betamadang.web.app/en/team/posting-rules-en?utm_source=github&utm_medium=readme&utm_campaign=team_launch)
 
 [![Team board with the pinned posting rules](images/team-board.jpg)](https://betamadang.web.app/en/team?utm_source=github&utm_medium=readme&utm_campaign=team_launch)
 
